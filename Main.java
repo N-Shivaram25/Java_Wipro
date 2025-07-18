@@ -10,6 +10,7 @@
 class B extends  A{
     float divide = (float)a/b;
     
+    
 
 }
 class Main{
